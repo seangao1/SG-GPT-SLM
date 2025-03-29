@@ -1,0 +1,28 @@
+
+
+Training Information
+--------------------------------------------------------------------------------
+Training Begin
+----------------------------------------------------
+There are 1 epochs, and for each epoch, there are 49524 batches of training data
+Total Training Steps: 49524
+Total Displaying Information: 1
+Optimizer name - AdamW learning rate: 1e-05
+lowest_val_loss started with 1000000000
+
+
+
+Message: 1 - Progress Summary - 49524 batches
+--------------------------------
+Epoch: 1 / 1 || Batch: 49524 / 49524 || Print Cycle: 1 / 1
+Average per-Batch Training Loss: 1.3953 || Average per-Batch Validation Loss: 1.1407
+This printing cycle took 7.62 hours
+
+Saving the Last Model
+
+
+Overall training took 7.62 hours
+--------------------------------------------------------------------------------
+
+
+
