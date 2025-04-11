@@ -2,6 +2,7 @@
 
 A small language model based on a multi-head self-attention Transformer architecture.
 
+<br>
 
 ## 🧠 Model Features
 
