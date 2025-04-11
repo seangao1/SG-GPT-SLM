@@ -2,6 +2,7 @@
 
 A small language model based on a multi-head self-attention Transformer architecture.
 
+
 ## 🧠 Model Features
 
 - Designed as a **document completer**: Given a prompt, it generates a continuation of the text.
