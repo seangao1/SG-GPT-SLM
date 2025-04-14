@@ -8,6 +8,7 @@ A small language model based on a multi-head self-attention Transformer architec
 
 - Designed as a **document completer**: Given a prompt, it generates a continuation of the text.
 - Total parameters: **25.28M**
+  - ![model size screenshot](image/param_screenshot.png)
 - Uses a **character-level tokenizer**
 - **Block size**: 512 (maximum input prompt length)
 
